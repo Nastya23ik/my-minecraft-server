@@ -1,0 +1,9 @@
+{
+  "version": "1.0.0",
+  "files": {
+    "client": "https://github.com/Nastya23ik/my-minecraft-server/releases/download/v1.0.0/client.zip",
+    "libraries": "https://github.com/Nastya23ik/my-minecraft-server/releases/download/v1.0.0/libraries.zip",
+    "assets": "https://github.com/Nastya23ik/my-minecraft-server/releases/download/v1.0.0/assets.zip",
+    "modpack": "https://github.com/Nastya23ik/my-minecraft-server/releases/download/v1.0.0/modpack.zip"
+  }
+}
